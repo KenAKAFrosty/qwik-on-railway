@@ -8,7 +8,7 @@ Click the rectangle with your app on it and you'll see the following, then just 
 ![image](https://user-images.githubusercontent.com/90424167/215240355-88be4281-c952-4273-bb9b-4dd65fbe5ca7.png)
 
 # Note:
-Qwik is ESPECIALLY well suited to run on edge functions/edge workers (Vercel, Cloudflare). Doing so also makes scaling pretty trivial. 
+Qwik is ESPECIALLY well suited to run on edge functions/edge workers (Vercel, Cloudflare). Doing so offers some benefits. 
 
 But this version for Railway is using the Node + Express integration. Just keep that in mind if you start taking your app to scale. 
 
