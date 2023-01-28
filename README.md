@@ -1,6 +1,13 @@
 # One-click Deploy on Railway!
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/HYtq-m?referralCode=R6EMh3)
 
+# Deployed and want a URL to share with the world?
+
+Click the rectangle with your app on it and you'll see the following, then just click Settings -> Generate domain:
+
+![image](https://user-images.githubusercontent.com/90424167/215240355-88be4281-c952-4273-bb9b-4dd65fbe5ca7.png)
+
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
